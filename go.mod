@@ -1,4 +1,4 @@
-module goZap
+module github.com/ZGuanglong/guanglongZapLog
 
 go 1.14
 

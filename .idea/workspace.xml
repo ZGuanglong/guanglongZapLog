@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c70718f-358b-42e2-bbf3-ef67881b08ba" name="Default Changelist" comment="" />
+    <list default="true" id="3c70718f-358b-42e2-bbf3-ef67881b08ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger/logger.go" beforeDir="false" afterPath="$PROJECT_DIR$/logger/logger.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +46,18 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Test.TestInitLog in github.com/ZGuanglong/guanglongZapLog/logger">
+    <configuration name="TestInitLog in github.com/ZGuanglong/guanglongZapLog/logger" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="goZap" />
+      <working_directory value="$PROJECT_DIR$/logger" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/ZGuanglong/guanglongZapLog/logger" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestInitLog$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestInitLog in goZap/logger" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="goZap" />
       <working_directory value="$PROJECT_DIR$/logger" />
@@ -57,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestInitLog in github.com/ZGuanglong/guanglongZapLog/logger" />
         <item itemvalue="Go Test.TestInitLog in goZap/logger" />
       </list>
     </recent_temporary>
@@ -69,22 +84,26 @@
     <proxy>https://goproxy.cn,direct</proxy>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1764" height="262" key="GridCell.Tab.0.bottom" timestamp="1599817045837">
-      <screen x="0" y="23" width="1875" height="1057" />
+    <state width="1792" height="273" key="GridCell.Tab.0.bottom" timestamp="1600053526980">
+      <screen x="0" y="23" width="1876" height="1057" />
     </state>
     <state width="1764" height="262" key="GridCell.Tab.0.bottom/0.23.1875.1057@0.23.1875.1057" timestamp="1599817045837" />
-    <state width="1764" height="262" key="GridCell.Tab.0.center" timestamp="1599817045836">
-      <screen x="0" y="23" width="1875" height="1057" />
+    <state width="1792" height="273" key="GridCell.Tab.0.bottom/0.23.1876.1057@0.23.1876.1057" timestamp="1600053526980" />
+    <state width="1792" height="273" key="GridCell.Tab.0.center" timestamp="1600053526979">
+      <screen x="0" y="23" width="1876" height="1057" />
     </state>
     <state width="1764" height="262" key="GridCell.Tab.0.center/0.23.1875.1057@0.23.1875.1057" timestamp="1599817045836" />
-    <state width="1764" height="262" key="GridCell.Tab.0.left" timestamp="1599817045835">
-      <screen x="0" y="23" width="1875" height="1057" />
+    <state width="1792" height="273" key="GridCell.Tab.0.center/0.23.1876.1057@0.23.1876.1057" timestamp="1600053526979" />
+    <state width="1792" height="273" key="GridCell.Tab.0.left" timestamp="1600053526978">
+      <screen x="0" y="23" width="1876" height="1057" />
     </state>
     <state width="1764" height="262" key="GridCell.Tab.0.left/0.23.1875.1057@0.23.1875.1057" timestamp="1599817045835" />
-    <state width="1764" height="262" key="GridCell.Tab.0.right" timestamp="1599817045836">
-      <screen x="0" y="23" width="1875" height="1057" />
+    <state width="1792" height="273" key="GridCell.Tab.0.left/0.23.1876.1057@0.23.1876.1057" timestamp="1600053526978" />
+    <state width="1792" height="273" key="GridCell.Tab.0.right" timestamp="1600053526979">
+      <screen x="0" y="23" width="1876" height="1057" />
     </state>
     <state width="1764" height="262" key="GridCell.Tab.0.right/0.23.1875.1057@0.23.1875.1057" timestamp="1599817045836" />
+    <state width="1792" height="273" key="GridCell.Tab.0.right/0.23.1876.1057@0.23.1876.1057" timestamp="1600053526979" />
     <state x="201" y="23" width="1476" height="1057" key="SettingsEditor" timestamp="1599814795496">
       <screen x="0" y="23" width="1875" height="1057" />
     </state>

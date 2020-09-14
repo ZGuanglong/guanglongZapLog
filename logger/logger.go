@@ -1,9 +1,8 @@
 package logger
-
 import (
+	"github.com/ZGuanglong/guanglongZapLog/logger/conf"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
-	"goZap/logger/conf"
 	"gopkg.in/natefinch/lumberjack.v2"
 	"os"
 )

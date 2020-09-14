@@ -1,1 +1,2 @@
 {"level":"info","ts":"2020-09-11T17:20:26.532+0800","caller":"logger/logger_test.go:10","msg":"log info"}
+{"level":"info","ts":"2020-09-14T11:19:34.303+0800","caller":"logger/logger_test.go:10","msg":"log info"}
